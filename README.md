@@ -5,6 +5,13 @@ Projeto N1 da Matéria de Inteligência Artificial que constitui em uma análise
 ## Enunciado
 As informações da atividade estão na [wiki](https://github.com/REXDES/N1-IA-Projeto/wiki) do repositório
 
+## Entregas
+### Notebook
+https://colab.research.google.com/drive/1avWShuAsOhCCbHfW3t_6o5d2TFexFjG7?usp=sharing
+
+### Apresentação
+https://www.icloud.com/keynote/0b7_5mMJcKETjKiMSJ5aiflkg#Projeto_N2_-_IA
+
 ## Grupo
 
 ## Autores
